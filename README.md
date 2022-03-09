@@ -5,6 +5,6 @@ required HTTP request be found at:
  https://github.com/statickidz/node-google-translate-skidz/blob/master/lib/translate.js
 
 ## Usage
-Edit the text to be translated in source.txt
-python .\translateApp.py
-Result will be in target.txt
+- Edit the text to be translated in source.txt
+- Run `python .\translateApp.py`
+- Tranlation result will be in target.txt
